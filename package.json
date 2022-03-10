@@ -1,0 +1,24 @@
+{
+  "name": "food-recipe-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sina-Erfanian/food-recipe-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sina-Erfanian/food-recipe-app/issues"
+  },
+  "homepage": "https://github.com/Sina-Erfanian/food-recipe-app#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "fontawesome": "^5.6.3"
+  }
+}
